@@ -328,6 +328,9 @@ __pycache__/
 *.pyc
 venv
 
+# Vim Tools
+*.swp
+
 # Cake - Uncomment if you are using it
 # tools/**
 # !tools/packages.config
